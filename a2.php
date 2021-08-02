@@ -206,7 +206,7 @@ width:100%;
 </table>
 </div>
 <hr  color="840564" size="12">
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br>
 
 <hr color="840564" size="12">
 <img src="td16.jpg" width="100%" height="800px">
