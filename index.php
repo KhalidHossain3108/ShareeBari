@@ -231,7 +231,7 @@ width:100%;
 <p class="a3"> Draw yourself now!</p>
 
 
-<a href="">
+<a href="a2.php">
 <div  style=" height:230px ; width:100%; background-image:url(titem2.jpg) ">
 <center><p style="color:white; font-family: 'CharukolaUltraLight', sans-serif; font-size:150px"> বাটিক</p></center>
 </div> 
@@ -240,7 +240,7 @@ width:100%;
 
 
 
-<a href="">
+<a href="a2.php">
 
 <div  style=" height:230px ; width:100%; background-image:url(titem3.jpg) ">
 <center><p style="color:white; font-family: 'CharukolaUltraLight', sans-serif; font-size:150px"> ব্লক</p></center>
@@ -248,6 +248,7 @@ width:100%;
 </a>
 <hr color="840564" size="12">
 
+<a href="a2.php">
 <div  style=" height:230px ; width:100%; background-image:url(titem2.jpg) ">
 <center><p style="color:white; font-family: 'CharukolaUltraLight', sans-serif; font-size:150px"> মিক্সড </p></center>
 </div>
