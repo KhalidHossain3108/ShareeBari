@@ -206,7 +206,7 @@ width:100%;
 </table>
 </div>
 <hr  color="840564" size="12">
-<br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 <hr color="840564" size="12">
 <img src="td16.jpg" width="100%" height="800px">
@@ -216,7 +216,7 @@ width:100%;
   <tr ><td><center>Price : ----  Tk</center></td><td><center>Available</center></td></tr>
   </table>
 <hr color="840564" size="12">
-<br><br><br><br>
+<br><br><br><br><br>
 
 
 <hr color="840564" size="12">
@@ -227,7 +227,7 @@ width:100%;
   <tr ><td><center>Price : 1080 Tk</center></td><td><center>Available</center></td></tr>
   </table>
 <hr color="840564" size="12">
-<br><br><br>
+<br><br><br><br><br>
 
 <hr color="840564" size="12">
 <img src="td2.jpg" width="100%" height="700px">
@@ -237,7 +237,7 @@ width:100%;
   <tr ><td><center>Price : 1200 Tk</center></td><td><center>Available</center></td></tr>
   </table>
 <hr color="840564" size="12">
-<br><br><br>
+<br><br><br><br><br>
 
 <hr color="840564" size="12">
 <img src="td3.jpg" width="100%" height="700px">
@@ -247,7 +247,7 @@ width:100%;
   <tr ><td><center>Price : 1200 Tk</center></td><td><center>Available</center></td></tr>
   </table>
 <hr color="840564" size="12">
-<br><br><br>
+<br><br><br><br><br>
 
 <hr color="840564" size="12">
 <img src="td4.jpg" width="100%" height="800px">
@@ -257,7 +257,7 @@ width:100%;
   <tr ><td><center>Price : 980 Tk</center></td><td><center>Available</center></td></tr>
   </table>
 <hr color="840564" size="12">
-<br><br><br><br>
+<br><br><br><br><br><br>
 
 
 <hr color="840564" size="12">
@@ -268,7 +268,7 @@ width:100%;
   <tr ><td><center>Price : 1100 Tk</center></td><td><center>Available</center></td></tr>
   </table>
 <hr color="840564" size="12">
-<br><br><br>
+<br><br><br><br><br>
 
 <hr color="840564" size="12">
 <img src="td6.jpg" width="100%" height="700px">
@@ -278,7 +278,7 @@ width:100%;
   <tr ><td><center>Price : 980 Tk</center></td><td><center>Available</center></td></tr>
   </table>
 <hr color="840564" size="12">
-<br><br><br>
+<br><br><br><br><br>
 
 <hr color="840564" size="12">
 <img src="td7.jpg" width="100%" height="800px">
@@ -289,7 +289,7 @@ width:100%;
   <tr ><td><center>Price : 950 Tk</center></td><td><center>Available</center></td></tr>
   </table>
 <hr color="840564" size="12">
-<br><br><br><br>
+<br><br><br><br><br><br>
 
 
 <hr color="840564" size="12">
@@ -300,7 +300,7 @@ width:100%;
   <tr ><td><center>Price : 950 Tk</center></td><td><center>Available</center></td></tr>
   </table>
 <hr color="840564" size="12">
-<br><br><br>
+<br><br><br><br><br>
 
 <hr color="840564" size="12">
 <img src="td9.jpg" width="100%" height="700px">
@@ -310,7 +310,7 @@ width:100%;
   <tr ><td><center>Price : 1150 Tk</center></td><td><center>Available</center></td></tr>
   </table>
 <hr color="840564" size="12">
-<br><br><br>
+<br><br><br><br><br>
 
 <hr color="840564" size="12">
 <img src="td10.jpg" width="100%" height="800px">
@@ -320,7 +320,7 @@ width:100%;
   <tr ><td><center>Price : 880 Tk</center></td><td><center>Available</center></td></tr>
   </table>
 <hr color="840564" size="12">
-<br><br><br><br>
+<br><br><br><br><br><br>
 
 
 <hr color="840564" size="12">
@@ -332,7 +332,7 @@ width:100%;
   </table>
 <hr color="840564" size="12">
 <br><br><br>
-
+<br><br>
 <hr color="840564" size="12">
 <img src="td12.jpg" width="100%" height="700px">
   <table align="center" class="a7" border="2">
@@ -341,7 +341,7 @@ width:100%;
   <tr ><td><center>Price : 1850 Tk</center></td><td><center>Available</center></td></tr>
   </table>
 <hr color="840564" size="12">
-<br><br><br>
+<br><br><br><br><br>
 
 <hr color="840564" size="12">
 <img src="td13.jpg" width="100%" height="800px">
@@ -351,7 +351,7 @@ width:100%;
   <tr ><td><center>Price : 980 Tk</center></td><td><center>Available</center></td></tr>
   </table>
 <hr color="840564" size="12">
-<br><br><br><br>
+<br><br><br><br><br><br>
 
 
 <hr color="840564" size="12">
@@ -362,7 +362,7 @@ width:100%;
   <tr ><td><center>Price : 950 Tk</center></td><td><center>Available</center></td></tr>
   </table>
 <hr color="840564" size="12">
-<br><br><br>
+<br><br><br><br><br>
 
 <hr color="840564" size="12">
 <img src="td15.jpg" width="100%" height="700px">
@@ -372,7 +372,7 @@ width:100%;
   <tr ><td><center>Price : 980 Tk</center></td><td><center>Available</center></td></tr>
   </table>
 <hr color="840564" size="12">
-<br><br><br>
+<br><br><br><br><br>
 
 
 
