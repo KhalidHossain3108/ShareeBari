@@ -267,7 +267,7 @@ width:100%;
 <a href="https://api.whatsapp.com/send?phone=+8801632096380&text=Hi! I'm interested in those designs you do.Can you help me by.. " class="float" target="_blank">
 <i class="fa fa-whatsapp my-float"></i>
 </a>
-<a href="https://m.me/md.khalidhossain.3108" ><img src="tmsngr.jpg" class="float1"></a>
+<a href="https://m.facebook.com/messenger-destination/cta/?page_id=101293351953587&post_id=204033808346207&ext=1628233381&hash=AeRCnr8-v9ldqtWPfms" ><img src="tmsngr.jpg" class="float1"></a>
 <br>
 <center>
 <p class="a4">Contact us : <a href="tel:+8801632096380">+8801632096380</a></p>
@@ -276,7 +276,7 @@ width:100%;
 <br><br>
 <hr color="840564" size="12">
 <br><br><br>
-<center><a href="fb://facewebmodal/https://m.facebook.com/%E0%A6%B6%E0%A6%BE%E0%A7%9C%E0%A6%BF-%E0%A6%AC%E0%A6%BE%E0%A7%9C%E0%A6%BF-101293351953587/?tsid=0.9916902302718893&source=result" class="fa fa-facebook"></a> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+<center><a href="https://m.facebook.com/%E0%A6%B6%E0%A6%BE%E0%A7%9C%E0%A6%BF-%E0%A6%AC%E0%A6%BE%E0%A7%9C%E0%A6%BF-101293351953587/?tsid=0.9916902302718893&source=result" class="fa fa-facebook"></a> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
 <a href="tel:01632096380" class="fa fa-twitter"></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
 <a href="mailto:touhidaafrin05@gmail.com" class="fa fa-google"></a>
 </center>
