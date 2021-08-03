@@ -5,6 +5,15 @@
 
 <title>Sharee Bari</title>
 <!-- -->
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-TQ3BGJ0XRY"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-TQ3BGJ0XRY');
+</script>
 <!--linking bootstarp -->
 <!--font awesome-->
 <script src="https://kit.fontawesome.com/3a09b235a1.js" crossorigin="anonymous"></script>
