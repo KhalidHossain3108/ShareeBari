@@ -297,7 +297,6 @@ width:100%;
 
 <hr color="840564" size="12">
 <br><br><br><br>
-<p class="a4"><a href="a3.html">Privacy Policy</a></p>
 <p class="a4"><a href="a4.html">Terms & Conditions </a></p>
 <p class="a4"><a href="a5.html">Delivery Processes </a></p>
 
