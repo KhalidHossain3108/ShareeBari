@@ -25,6 +25,10 @@
 <!--links for fonts -->
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Hind+Siliguri&display=swap" rel="stylesheet">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Mina&display=swap" rel="stylesheet">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -268,7 +272,7 @@ width:100%;
 <hr color="840564" size="12">
 <button type="button" class="collapsible">About Sharee Bari</button>
 <div class="content">
-<p style="font-family: 'Mina', sans-serif">শাড়ি বাড়ি কাজ করছে শাড়ি নিয়ে প্রায় তিন বছরের অভিজ্ঞতা থেকে । আমরা সুতি, সিল্ক শাড়ি নিয়ে কাজ করছি। ব্লক বাটিক ট্যাসেলসহ আরো বিভিন্ন প্রকারের ডিজাইন শোভা পায় আমাদের শাড়িগুলোতে। ব্যতিক্রম, দৃষ্টিনন্দন, আরামদায়ক, টেকসই পোশাক তৈরী আমাদের মূল লক্ষ্য। </p>
+<p style="font-family:'Hind Siliguri', sans-serif; ">শাড়ি বাড়ি কাজ করছে শাড়ি নিয়ে প্রায় তিন বছরের অভিজ্ঞতা থেকে । আমরা সুতি, সিল্ক শাড়ি নিয়ে কাজ করছি। ব্লক বাটিক ট্যাসেলসহ আরো বিভিন্ন প্রকারের ডিজাইন শোভা পায় আমাদের শাড়িগুলোতে। ব্যতিক্রম, দৃষ্টিনন্দন, আরামদায়ক, টেকসই পোশাক তৈরী আমাদের মূল লক্ষ্য। </p>
 </p> 
 
 </div>
@@ -295,6 +299,8 @@ width:100%;
 <br><br><br><br>
 <p class="a4"><a href="">Privacy Policy</a></p>
 <p class="a4"><a href="">Terms & Conditions </a></p>
+<p class="a4"><a href="">Delivery Processes </a></p>
+
 <br><br><br><br>
 <footer><center>
 <p class="a4">© 2021 | Sharee Bari | All Rights Reserved</p>
